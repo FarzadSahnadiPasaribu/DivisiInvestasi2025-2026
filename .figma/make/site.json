@@ -1,0 +1,10 @@
+{
+  "description": "Jelajahi album digital sinematik Divisi Investasi KSPM GIBEI UNIMED 2025/2026, lengkap dengan dokumentasi, humor internal, apresiasi, dan kenangan interaktif.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
