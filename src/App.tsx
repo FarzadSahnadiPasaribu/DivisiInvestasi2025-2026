@@ -1,14 +1,14 @@
 import { useEffect, useRef, useState } from "react";
-import beginningPhoto from "./assets/memories/The Beginning.jpeg";
-import firstStepsPhoto from "./assets/memories/Our First Steps.jpeg";
-import journeyPhoto from "./assets/memories/The Journey.jpeg";
-import duoMautPhoto from "./assets/memories/Duo Maut.jpeg";
-import lastChapterPhoto from "./assets/memories/The Last Chapter.jpeg";
-import duoCrisPhoto from "./assets/memories/Duo Maut Cris.jpeg";
-import duoCepatPulangPhoto from "./assets/memories/Duo Maut Cepat Pulang.jpeg";
-import documentationOnePhoto from "./assets/memories/WhatsApp Image 2026-11-18 at 01.47..jpeg";
-import documentationTwoPhoto from "./assets/memories/WhatsApp Image 2026-11-18 at 01.47.53.jpeg";
-import documentationThreePhoto from "./assets/memories/WhatsApp Image 2026-11-18 at 01.4.jpeg";
+import beginningPhoto from "./assets/memories/the-beginning.jpeg";
+import firstStepsPhoto from "./assets/memories/our-first-steps.jpeg";
+import journeyPhoto from "./assets/memories/the-journey.jpeg";
+import duoMautPhoto from "./assets/memories/duo-maut.jpeg";
+import lastChapterPhoto from "./assets/memories/the-last-chapter.jpeg";
+import duoCrisPhoto from "./assets/memories/duo-maut-cris.jpeg";
+import duoCepatPulangPhoto from "./assets/memories/duo-maut-cepat-pulang.jpeg";
+import documentationOnePhoto from "./assets/memories/dokumentasi-01-47.jpeg";
+import documentationTwoPhoto from "./assets/memories/dokumentasi-01-47-53.jpeg";
+import documentationThreePhoto from "./assets/memories/dokumentasi-01-4.jpeg";
 
 type Memory = {
   src: string;
